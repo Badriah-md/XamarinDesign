@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E6831203-2D11-4295-8F52-77BBA6F644F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="newProject/App.xaml.cs">
+    <Files>
+      <File FileName="newProject/GreetPage.xaml" Line="21" Column="1" />
+      <File FileName="newProject/GreetPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="newProject/interfaces.xaml" Line="4" Column="49" />
+      <File FileName="newProject/interfaces.xaml.cs" Line="1" Column="1" />
+      <File FileName="newProject/App.xaml.cs" Line="13" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="newProject" expanded="True">
+            <Node name="newProject" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="GreetPage.xaml" expanded="True" />
+              <Node name="interfaces.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.newProject.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.676B811B-9441-4715-BAA3-6108417DAE12" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.newProject.Android PreferredExecutionTarget="Android.Pixel_XL_API_29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

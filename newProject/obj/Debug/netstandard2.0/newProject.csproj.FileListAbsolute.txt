@@ -1,0 +1,15 @@
+/Users/m/Projects/newProject/newProject/bin/Debug/netstandard2.0/newProject.deps.json
+/Users/m/Projects/newProject/newProject/bin/Debug/netstandard2.0/newProject.dll
+/Users/m/Projects/newProject/newProject/bin/Debug/netstandard2.0/ref/newProject.dll
+/Users/m/Projects/newProject/newProject/bin/Debug/netstandard2.0/newProject.pdb
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/newProject.csprojAssemblyReference.cache
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/GreetPage.xaml.g.cs
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/newProject.AssemblyInfoInputs.cache
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/newProject.AssemblyInfo.cs
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/newProject.dll
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/ref/newProject.dll
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/newProject.pdb
+/Users/m/Projects/newProject/newProject/obj/Debug/netstandard2.0/interfaces.xaml.g.cs
